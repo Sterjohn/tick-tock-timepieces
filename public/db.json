@@ -1,0 +1,60 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "Tick Tock Timepieces",
+      "description": "The go-to store for premium watches",
+      "phone_number": "555-8468"
+    }
+  ],
+  "watches": [
+    {
+      "id": 1,
+      "name": "Classic Chronograph",
+      "description": "A timeless stainless steel chronograph with a sapphire crystal face.",
+      "brand": "Rolex",
+      "origin": "Switzerland",
+      "price": 8999.99
+    },
+    {
+      "id": 2,
+      "name": "Sport Diver",
+      "description": "Water-resistant to 300m with a rotating bezel and luminous hands.",
+      "brand": "Omega",
+      "origin": "Switzerland",
+      "price": 5499.99
+    },
+    {
+      "id": 3,
+      "name": "Urban Minimalist",
+      "description": "Slim profile with a leather strap and clean white dial.",
+      "brand": "Nomos",
+      "origin": "Germany",
+      "price": 1899.99
+    },
+    {
+      "id": 4,
+      "name": "Pilot Pro",
+      "description": "Aviation-inspired design with dual time zone and anti-magnetic movement.",
+      "brand": "IWC",
+      "origin": "Switzerland",
+      "price": 4299.99
+    },
+    {
+      "id": 5,
+      "name": "Heritage Dress",
+      "description": "Elegant gold-tone case with a silver guilloche dial and crocodile strap.",
+      "brand": "Patek Philippe",
+      "origin": "Switzerland",
+      "price": 24999.99
+    },
+    {
+      "id": 6,
+      "name": "Street Bold",
+      "description": "Bold design with a ceramic bezel and scratch-resistant coating.",
+      "brand": "Hublot",
+      "origin": "Switzerland",
+      "price": 6799.99
+    }
+  ]
+}
